@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class AssignmentQn {
+class AssignmentQn1{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
